@@ -1,0 +1,8 @@
+{
+  "name": "DOP Finacle Menu Desk",
+  "description": "Operational reference workbench for Department of Posts (DOP) Finacle menu codes, scheme lifecycle matrices, auditor reports, and step-by-step SOPs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
